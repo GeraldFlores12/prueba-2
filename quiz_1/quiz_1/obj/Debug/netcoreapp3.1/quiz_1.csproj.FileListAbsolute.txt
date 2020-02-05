@@ -1,0 +1,11 @@
+C:\Users\flore\Desktop\quiz_1\quiz_1\bin\Debug\netcoreapp3.1\quiz_1.exe
+C:\Users\flore\Desktop\quiz_1\quiz_1\bin\Debug\netcoreapp3.1\quiz_1.deps.json
+C:\Users\flore\Desktop\quiz_1\quiz_1\bin\Debug\netcoreapp3.1\quiz_1.runtimeconfig.json
+C:\Users\flore\Desktop\quiz_1\quiz_1\bin\Debug\netcoreapp3.1\quiz_1.runtimeconfig.dev.json
+C:\Users\flore\Desktop\quiz_1\quiz_1\bin\Debug\netcoreapp3.1\quiz_1.dll
+C:\Users\flore\Desktop\quiz_1\quiz_1\bin\Debug\netcoreapp3.1\quiz_1.pdb
+C:\Users\flore\Desktop\quiz_1\quiz_1\obj\Debug\netcoreapp3.1\quiz_1.csprojAssemblyReference.cache
+C:\Users\flore\Desktop\quiz_1\quiz_1\obj\Debug\netcoreapp3.1\quiz_1.AssemblyInfoInputs.cache
+C:\Users\flore\Desktop\quiz_1\quiz_1\obj\Debug\netcoreapp3.1\quiz_1.AssemblyInfo.cs
+C:\Users\flore\Desktop\quiz_1\quiz_1\obj\Debug\netcoreapp3.1\quiz_1.dll
+C:\Users\flore\Desktop\quiz_1\quiz_1\obj\Debug\netcoreapp3.1\quiz_1.pdb
